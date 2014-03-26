@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6b3a0040-de7d-488a-8869-bc0e708a0b15</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>weibo.py</StartupFile>
+    <StartupFile>tag_cloud.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
